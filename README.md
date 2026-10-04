@@ -1,6 +1,6 @@
 # 1151 創意學習 期末專題
 
-規格以[助教 repo](https://github.com/YuunJiee/ncu-1151-creative-learning-final) 為準；規格更新時另行公告。問題請以 issue 提出。
+規格以[助教 repo](https://github.com/NCU-AIKslab/ncu-1151-creative-learning-final) 為準；規格更新時另行公告。問題請以 issue 提出。
 
 ## 範圍
 
